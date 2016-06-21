@@ -1,0 +1,18 @@
+﻿{
+	"token": "MTc2ODM3MzUwMDQxNzE0Njkw.CgmapA.YsGw6ZbAho7Lv8OI-mogtgiwBnQ",
+	"default_channel": "bot-testing",
+
+	"command_prefix": "$",
+	"owner": "138361044518174721",
+
+	"responses": [
+		{
+			"pattern": ".*ayy+$",
+			"response": "lmao"
+		},
+		{
+			"pattern": "here comes? dat boi!*$",
+			"response": "o shit waddup!"
+		}
+	]
+}

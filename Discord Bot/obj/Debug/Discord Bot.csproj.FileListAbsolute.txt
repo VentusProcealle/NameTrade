@@ -1,0 +1,21 @@
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\DiscordBot.exe.config
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\DiscordBot.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\DiscordBot.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\DiscordSharp.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\NAudio.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Newtonsoft.Json.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\websocket-sharp.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\WebSocket4Net.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\DiscordSharp.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\DiscordSharp.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\NAudio.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Newtonsoft.Json.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\websocket-sharp.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\obj\Debug\Discord Bot.csprojResolveAssemblyReference.cache
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\obj\Debug\DiscordBot.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\obj\Debug\DiscordBot.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\config.json
+C:\Users\Jeffrey\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\NCalc.dll
+C:\Users\Jeffrey\Documents\GitHub\Discord Bot\Discord Bot\bin\Debug\DiscordBot.exe.config
+C:\Users\Jeffrey\Documents\GitHub\Discord Bot\Discord Bot\obj\Debug\DiscordBot.exe
+C:\Users\Jeffrey\Documents\GitHub\Discord Bot\Discord Bot\obj\Debug\DiscordBot.pdb
